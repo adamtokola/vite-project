@@ -6,5 +6,7 @@ import './index.css'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
-  </StrictMode>,
+  </StrictMode>
 )
+// pass by reference pass by value
+// cant use push in React ** ??
